@@ -1,7 +1,7 @@
 # MKL
-## Multiple Kernel Learning Model for Relating Structural and Functional Connectivity in the Brain
+## Implementation of Multiple Kernel Learning (MKL) Model for Relating Structural (SC) and Functional Connectivity (FC) in the Brain based on resting state fMRI BOLD signals and diffusion weighted imaging and DTI
 
-This is the code base for the article at (www.nature.com/articles/s41598-018-21456-0). 
+The code implemented here is based our new methods article based spectral graph theory (heat diffusion kernel) and application in fMRI at (www.nature.com/articles/s41598-018-21456-0). Please cite this article if you are using this code for your work. 
 
 In order to use the MKL model on your data set, you need to ensure few things:
 
